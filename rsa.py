@@ -260,7 +260,7 @@ if __name__ == '__main__':
             print()
             print ("Decrypting message with public key. Your message is: ", decrypt(public, encrypted_msg))
 
-            print()
+ 
 
 
     if aq in ['public_key', 'public']:
@@ -271,6 +271,6 @@ if __name__ == '__main__':
             print()
             print ("Decrypting message with private key. Your message is: ", decrypt(private, encrypted_msg))
 
-            print()
+       
             
-    print("it's strong...!!!")
+
