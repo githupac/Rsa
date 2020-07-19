@@ -76,8 +76,6 @@ def miller_rabin(n, k=40):
 
 
 #karatsuba algorithm
-#ضرب
-
 import math
 
 
