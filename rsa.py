@@ -1,5 +1,3 @@
-# ---> 981813172
-# >>> muhamd Ghavi
 
 #random algorithm
 
@@ -278,4 +276,3 @@ if __name__ == '__main__':
             print()
             
     print("it's strong...!!!")
-    print("author: Muhamad Ghavi")
