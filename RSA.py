@@ -1,5 +1,4 @@
-# ---> 981813172
-# >>> muhamd Ghavi
+
 
 #random algorithm
 
@@ -78,7 +77,7 @@ def miller_rabin(n, k=40):
 
 
 #karatsuba algorithm
-#ضرب
+# Fast multiplication
 
 import math
 
@@ -290,4 +289,4 @@ if __name__ == '__main__':
                     print()
             
     print("it's strong...!!!")
-    print("author: Muhamad Ghavi")
+
